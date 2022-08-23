@@ -15,5 +15,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": 0,
+      "name": "xxx",
+      "email": "xxx@xxx.com",
+      "phone": "12345678901"
+    }
+  ]
 }
